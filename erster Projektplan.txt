@@ -1,0 +1,24 @@
+Projekt Kartenspiel
+-------------------
+von:
+Deniz Tebart-Uzun 
+Andre Kolesnikovic
+
+Funktionalitäten:
+- Spiel
+- Bluetooth-Verbindung
+- [Web-Verbindung]
+- Karten mithilfe des Bewegungssensors ablegen
+
+ Aufgabenverteilung:
+ - Spiel-Portierung: Andre
+ - Bluetooth: Deniz
+ - Karte ablegen: Deniz/Andre
+ 
+ Ablauf:
+ 1. Bluetooth-Verbindung/senden/empfangen entwickeln
+	- Verbindung
+	- Kartenliste (siehe Java-Dateien) übertragen
+	- Kartenliste empfangen
+ 2. Kartenspiel in Bluetooth-App integrieren
+ 3. Karte ablegen bei Handy schwenken
